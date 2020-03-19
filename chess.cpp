@@ -320,5 +320,5 @@ while (getline(infile, line))
     obs.push_back(res);
 }
 
-cout<<output(1,1,10,obs)<<endl;
+cout<<output(48,42,10,obs)<<endl;
 }
